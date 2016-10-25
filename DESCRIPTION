@@ -1,0 +1,15 @@
+Package: S5
+Type: Package
+Title: Simplified Shotgun Stochastic Search with Screening (S5)
+Version: 1.1
+Date: 2016-09-09
+Author: Minsuk Shin and Ruoxuan Tian
+Maintainer: Minsuk Shin <minsuk@stat.tamu.edu> and Ruoxuan Tian <tianruoxuan@hotmail.com>
+Depends: R (>= 3.2.4)
+Imports: Matrix, stats, snowfall, MASS
+Description: In p >> n settings, full posterior sampling using existing Markov chain Monte
+    Carlo (MCMC) algorithms is highly inefficient and often not feasible from a practical
+    perspective. To overcome this problem, we propose a scalable stochastic search algorithm that is called the Simplified Shotgun Stochastic Search (S5) and aimed at rapidly explore interesting regions of model space and finding the maximum a posteriori(MAP) model. Also, the S5 provides an approximation of posterior probability of each model (including the marginal inclusion probabilities).
+URL: http://www.stat.tamu.edu/~minsuk/publications/nonlocal_sinica7.pdf
+License: GPL (>= 2)
+Repository: CRAN
