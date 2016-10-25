@@ -1,2 +1,2 @@
-## Simplified Shotgun Stochastic Search with Screening (S5) ver. 1.1
+### R package: Simplified Shotgun Stochastic Search with Screening (S5) ver. 1.1
 
